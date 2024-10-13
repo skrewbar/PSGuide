@@ -1,3 +1,9 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
+body {
+  font-family: 'Pretendard';
+}
+
 .bronze {
   color: #ad5600;
 }
@@ -18,9 +24,12 @@
 .wa {
   color: #dd4124;
 }
-.mle, .tle {
+.mle, .tle, .ole {
   color: #fa7268;
 }
 .rte {
   color: #5f4b8b;
+}
+.ce {
+  color: #0f4c81;
 }

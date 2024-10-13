@@ -1,6 +1,6 @@
 # Configurations
-title:            스크류바의 PS 노트북
-longtitle:        PSnote
+title:            새싹이들을 위한 PS 가이드
+longtitle:        PSGuide
 author:           skrewbar
 email:            skurua1244@gmail.com
 description: >
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://skrewbar.github.io'
-baseurl:          '/PSnote'
+baseurl:          '/PSGuide'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

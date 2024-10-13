@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 새싹이들을 위한 백준 가이드
+title: 새싹이들을 위한 PS 가이드
 permalink: /
 ---
 

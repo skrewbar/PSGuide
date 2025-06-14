@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "e8760250d1c1f118",
+    "type": "split",
+    "children": [
+      {
+        "id": "1add97595f2e78bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dc7a4d95b9bde85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "가이드를 마치며.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "가이드를 마치며"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f0266267f676fb7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "18b5c59a739037d3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "9614a5b137cd1086",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "\"//\"",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "b05f93de7f6239a8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "ae558c5650e5b1f2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5ef421ba8b9172af",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9e9b7b580d6a26ab",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CLASS 3/문제 풀이/1로 만들기.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "096bf40e1d969586",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "CLASS 3/문제 풀이/1로 만들기.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "1c379e98bb8c70c6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "가이드를 마치며.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1dc7a4d95b9bde85",
+  "lastOpenFiles": [
+    "CLASS 3/CLASS 3.md",
+    "CLASS 2/CLASS 2.md",
+    "CLASS 2/유클리드 호제법.md",
+    "CLASS 2/문제 풀이/최대공약수와 최소공배수.md",
+    "index.md",
+    "CLASS 2/문제 풀이/요세푸스 문제 0.md",
+    "CLASS 2/에라토스테네스의 체.md",
+    "가이드를 마치며.md",
+    "CLASS 3/문제 풀이/ATM.md",
+    "CLASS 3/문제 풀이/회의실 배정.md",
+    "CLASS 3/문제 풀이/피보나치 함수.md",
+    "CLASS 3/문제 풀이/토마토.md",
+    "CLASS 3/문제 풀이/유기농 배추.md",
+    "CLASS 3/문제 풀이/숨바꼭질.md",
+    "CLASS 3/문제 풀이/색종이 만들기.md",
+    "CLASS 3/문제 풀이/바이러스.md",
+    "CLASS 3/문제 풀이/나무 자르기.md",
+    "CLASS 3/문제 풀이/2×n 타일링.md",
+    "CLASS 3/문제 풀이/1로 만들기.md",
+    "CLASS 3/문제 풀이/1, 2, 3 더하기.md",
+    "CLASS 3/문제 풀이/Z.md",
+    "CLASS 3/그래프/그래프 탐색/너비 우선 탐색.md",
+    "CLASS 3/그래프/그래프 탐색/그래프 탐색.md",
+    "CLASS 3/그래프/그래프.md",
+    "CLASS 3/그래프/그래프 탐색/깊이 우선 탐색.md",
+    "CLASS 3/다이나믹 프로그래밍/다이나믹 프로그래밍.md",
+    "이미지/큐.png",
+    "이미지/스택.png",
+    "이미지/그래프.svg",
+    "이미지/티어 아이콘/s3.svg"
+  ]
+}

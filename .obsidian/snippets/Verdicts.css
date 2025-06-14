@@ -1,0 +1,40 @@
+.ac::after {
+  content: "맞았습니다!!";
+  font-weight: 700;
+  color: #009874;
+}
+
+.pe::after {
+  content: "출력 형식이 잘못되었습니다";
+  color: #fa7268;
+}
+
+.wa::after {
+  content: "틀렸습니다";
+  color: #dd4124;
+}
+
+.tle::after {
+  content: "시간 초과";
+  color: #fa7268;
+}
+
+.mle::after {
+  content: "메모리 초과";
+  color: #fa7268;
+}
+
+.ole::after {
+  content: "출력 초과";
+  color: #fa7268;
+}
+
+.rte::after {
+  content: "런타임 에러";
+  color: #5f4b8b;
+}
+
+.ce::after {
+  content: "컴파일 에러";
+  color: #0f4c81;
+}

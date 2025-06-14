@@ -1,0 +1,10 @@
+{
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
+  "Appearance-dark@@accent-color-override-dark": true,
+  "Appearance-light@@accent-color-override-light": true,
+  "Components@@file-icon-remove": true,
+  "Appearance-light@@accent-light": "#F5A3A3"
+}

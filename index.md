@@ -1,3 +1,6 @@
+---
+title: "PSGuide"
+---
 안녕하세요, 여러분의 PS 가이드를 맡게 된 skuru라고 합니다.
 # PS란?
 PS는 문제 해결(Problem Solving)의 줄임말로, 여기서는 **알고리즘 문제 해결**을 뜻합니다.

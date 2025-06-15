@@ -8,7 +8,7 @@ PS는 문제 해결(Problem Solving)의 줄임말로, 여기서는 **알고리�
 보통 코딩 테스트를 준비하거나 알고리즘 문제 해결 대회를 준비하기 위해서 PS를 합니다.
 물론 재밌어서 하는 경우도 있습니다. 제가 그렇습니다 :)
 # 시작하기
-PS는 온라인으로 문제를 채점해주는 백준을 이용해서 주로 공부합니다.
+PS는 온라인으로 문제를 채점해주는 [백준](https://www.acmicpc.net/)을 이용해서 주로 공부합니다.
 하지만 백준에는 문제의 난이도가 매겨져 있지 않습니다. 그래서 solved.ac라는 서비스를 이용해서 난이도 정보를 제공받아야 합니다. [help.solved.ac:시작하기](https://help.solved.ac/ko/getting-started/link-account)를 참고해서 계정을 만들어 주세요. 같이 적혀있는 다른 가이드들도 읽어보면 좋습니다.
 # 문제 풀기
 가입을 마쳤다면 이제 백준에서 문제를 풀어 봅시다. 첫 번째 문제인 [1000번: A+B](https://www.acmicpc.net/problem/1000)를 풀어 봅시다.
@@ -35,7 +35,7 @@ print(a + b)  # 더해서 출력
 
 > [!info] 예제 코드
 > 예제 코드는 의사 코드와 비슷한 Python으로만 작성되어 있습니다.
-> 하지만 파이썬을 잘 몰라도 충분히 이해할 수 있어요.
+> 하지만 파이썬을 잘 몰라도 충분히 이해할 수 있어요.
 
 우리의 목표는 [solved.ac:CLASS](https://solved.ac/class)의 **CLASS 3 에센셜**까지 취득하는 것입니다.
 CLASS에 대한 자세한 내용은 [help.solved.ac:CLASS](https://help.solved.ac/ko/stats/class)를 참고해 주세요.

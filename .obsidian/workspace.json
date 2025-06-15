@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "CLASS 3/우선순위 큐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "우선순위 큐"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "381cb9f6d02f18c7",
   "lastOpenFiles": [
+    "CLASS 3/CLASS 3.md",
+    "index.md",
     "CLASS 3/문제 풀이/피보나치 함수.md",
     "CLASS 3/문제 풀이/토마토.md",
     "CLASS 3/그래프/그래프 탐색/그래프 탐색.md",
@@ -192,9 +194,7 @@
     "CLASS 2/스택.md",
     "CLASS 2/CLASS 2.md",
     "CLASS 2/시간 복잡도.md",
-    "index.md",
     "CLASS 3/그래프/그래프 탐색/너비 우선 탐색.md",
-    "CLASS 3/CLASS 3.md",
     "CLASS 3/분할 정복.md",
     "CLASS 3/우선순위 큐.md",
     "이미지/스택.png",

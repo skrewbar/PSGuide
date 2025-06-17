@@ -2,5 +2,6 @@
   "spellcheck": false,
   "promptDelete": false,
   "trashOption": "local",
-  "useTab": false
+  "useTab": false,
+  "alwaysUpdateLinks": false
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "가이드를 마치며.md",
+                "file": "CLASS 3/이분 탐색.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "가이드를 마치며"
+              "title": "이분 탐색"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e2768fa732d0f0a7",
@@ -172,6 +171,8 @@
   },
   "active": "381cb9f6d02f18c7",
   "lastOpenFiles": [
+    "CLASS 2/CLASS 2.md",
+    "가이드를 마치며.md",
     "index.md",
     "CLASS 3/우선순위 큐.md",
     "CLASS 3/CLASS 3.md",
@@ -194,10 +195,8 @@
     "CLASS 3/문제 풀이/회의실 배정.md",
     "CLASS 2/문제 풀이/괄호.md",
     "CLASS 2/스택.md",
-    "CLASS 2/CLASS 2.md",
     "CLASS 2/시간 복잡도.md",
     "CLASS 3/그래프/그래프 탐색/너비 우선 탐색.md",
-    "CLASS 3/분할 정복.md",
     "이미지/스택.png",
     "개발 환경 세팅",
     "CLASS 3/문제 풀이",

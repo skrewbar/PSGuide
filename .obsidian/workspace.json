@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLASS 3/이분 탐색.md",
+                "file": "CLASS 4/문제 풀이/N과 M (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이분 탐색"
+              "title": "N과 M (2)"
             }
           }
         ]
@@ -142,35 +142,52 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md",
+                "file": "CLASS 4/문제 풀이/N과 M (2).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TODO 의 개요"
+              "title": "N과 M (2) 의 개요"
+            }
+          },
+          {
+            "id": "964abbafabd756d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "381cb9f6d02f18c7",
+  "active": "964abbafabd756d4",
   "lastOpenFiles": [
+    "CLASS 2/문제 풀이/소수 찾기.md",
+    "CLASS 4/문제 풀이/N과 M (2).md",
+    "CLASS 2/문제 풀이/괄호.md",
+    "CLASS 4/백트래킹.md",
+    "CLASS 4/CLASS 4.md",
+    "CLASS 3/이분 탐색.md",
     "CLASS 2/CLASS 2.md",
     "가이드를 마치며.md",
     "index.md",
@@ -184,7 +201,6 @@
     "CLASS 3/문제 풀이/유기농 배추.md",
     "CLASS 3/문제 풀이/색종이 만들기.md",
     "CLASS 2/문제 풀이/최대공약수와 최소공배수.md",
-    "CLASS 3/이분 탐색.md",
     "CLASS 3/문제 풀이/나무 자르기.md",
     "CLASS 3/문제 풀이/1로 만들기.md",
     "CLASS 3/문제 풀이/1, 2, 3 더하기.md",
@@ -192,11 +208,6 @@
     "CLASS 3/문제 풀이/2×n 타일링.md",
     "CLASS 3/문제 풀이/Z.md",
     "CLASS 3/문제 풀이/ATM.md",
-    "CLASS 3/문제 풀이/회의실 배정.md",
-    "CLASS 2/문제 풀이/괄호.md",
-    "CLASS 2/스택.md",
-    "CLASS 2/시간 복잡도.md",
-    "CLASS 3/그래프/그래프 탐색/너비 우선 탐색.md",
     "이미지/스택.png",
     "개발 환경 세팅",
     "CLASS 3/문제 풀이",

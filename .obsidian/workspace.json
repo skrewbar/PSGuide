@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fde8f040172ac6b",
+        "id": "7a678b0793d8fc6e",
         "type": "tabs",
         "children": [
           {
-            "id": "381cb9f6d02f18c7",
+            "id": "465d3a6a475b4867",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLASS 4/문제 풀이/N과 M (2).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "N과 M (2)"
+              "title": "새 탭"
             }
           }
         ]
@@ -160,6 +156,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "a99805f14a8fc081",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -182,16 +188,25 @@
   },
   "active": "964abbafabd756d4",
   "lastOpenFiles": [
-    "CLASS 2/문제 풀이/소수 찾기.md",
+    "CLASS 4/문제 풀이/가장 긴 증가하는 부분 수열.md",
     "CLASS 4/문제 풀이/N과 M (2).md",
+    "CLASS 4/LIS.md",
+    "CLASS 3/문제 풀이/1로 만들기.md",
+    "CLASS 2/문제 풀이/카드2.md",
+    "CLASS 2/문제 풀이/최대공약수와 최소공배수.md",
+    "CLASS 2/문제 풀이/요세푸스 문제 0.md",
+    "CLASS 2/문제 풀이/소수 찾기.md",
+    "CLASS 2/문제 풀이/소수 구하기.md",
     "CLASS 2/문제 풀이/괄호.md",
     "CLASS 4/백트래킹.md",
     "CLASS 4/CLASS 4.md",
     "CLASS 3/이분 탐색.md",
+    "CLASS 3/우선순위 큐.md",
+    "CLASS 3/분할 정복.md",
+    "CLASS 3/그리디 알고리즘.md",
     "CLASS 2/CLASS 2.md",
     "가이드를 마치며.md",
     "index.md",
-    "CLASS 3/우선순위 큐.md",
     "CLASS 3/CLASS 3.md",
     "CLASS 3/문제 풀이/피보나치 함수.md",
     "CLASS 3/문제 풀이/토마토.md",
@@ -199,15 +214,6 @@
     "CLASS 3/그래프/그래프.md",
     "CLASS 3/문제 풀이/숨바꼭질.md",
     "CLASS 3/문제 풀이/유기농 배추.md",
-    "CLASS 3/문제 풀이/색종이 만들기.md",
-    "CLASS 2/문제 풀이/최대공약수와 최소공배수.md",
-    "CLASS 3/문제 풀이/나무 자르기.md",
-    "CLASS 3/문제 풀이/1로 만들기.md",
-    "CLASS 3/문제 풀이/1, 2, 3 더하기.md",
-    "CLASS 3/문제 풀이/바이러스.md",
-    "CLASS 3/문제 풀이/2×n 타일링.md",
-    "CLASS 3/문제 풀이/Z.md",
-    "CLASS 3/문제 풀이/ATM.md",
     "이미지/스택.png",
     "개발 환경 세팅",
     "CLASS 3/문제 풀이",

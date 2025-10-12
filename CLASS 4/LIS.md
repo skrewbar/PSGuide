@@ -12,4 +12,4 @@ $j < i$인 $j$의 개수는 $\mathcal{O}(N)$이므로 총 시간 복잡도는 $\
 # 수열을 구하는 방법
 $lis[i] = lis[j] + 1$을 만족하는 $j$를 $prev[i]$라 하고 $lis[i]$가 최대인 $i$부터 $prev[i]$를 따라가면 됩니다.
 # 문제
-- 11053번: ![[s2.svg|tier]] [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) [[가장 긴 증가하는 부분 수열|풀이]]
+- ![[s2.svg|tier]] [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) [[가장 긴 증가하는 부분 수열|풀이]]
